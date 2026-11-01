@@ -20,6 +20,15 @@ We work on **AI for Science** — mostly molecular modeling, multimodal foundati
 
 ## Projects
 
+### [BEAKER](https://github.com/HydroSophy/BEAKER) &nbsp;·&nbsp; *NeurIPS 2026 Spotlight*
+
+**BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories**
+
+A benchmark for MLLMs as embodied brains in self-driving chemical laboratories — 1,000 expert-curated questions, 11 image and video tasks across Actionability, Knowledge, Experimentation, and Reasoning, with 28 MLLMs evaluated.
+
+[![Dataset](https://img.shields.io/badge/🤗_Dataset-BEAKER-FFD21E.svg?style=flat-square)](https://huggingface.co/datasets/HydroSophyTech/BEAKER)
+[![Code](https://img.shields.io/badge/Code-GitHub-0B2A4A.svg?style=flat-square)](https://github.com/HydroSophy/BEAKER)
+
 ### [ToxiMol](https://github.com/HydroSophy/ToxiMol) &nbsp;·&nbsp; *KDD 2026 Oral*
 
 **Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?**
