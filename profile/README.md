@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HydroSophy/.github/main/profile/assets/logo.png" alt="HydroSophy" height="80"/>
+<img src="https://raw.githubusercontent.com/HydroSophy/.github/main/profile/assets/logo.png" alt="HydroSophy" height="60"/>
 
 # HydroSophy
 
