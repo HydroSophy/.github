@@ -26,6 +26,7 @@ We work on **AI for Science** — mostly molecular modeling, multimodal foundati
 
 A benchmark for MLLMs as embodied brains in self-driving chemical laboratories — 1,000 expert-curated questions, 11 image and video tasks across Actionability, Knowledge, Experimentation, and Reasoning, with 28 MLLMs evaluated.
 
+[![Paper](https://img.shields.io/badge/arXiv-2611.06911-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2611.06911)
 [![Dataset](https://img.shields.io/badge/🤗_Dataset-BEAKER-FFD21E.svg?style=flat-square)](https://huggingface.co/datasets/HydroSophyTech/BEAKER)
 [![Code](https://img.shields.io/badge/Code-GitHub-0B2A4A.svg?style=flat-square)](https://github.com/HydroSophy/BEAKER)
 
@@ -46,7 +47,7 @@ A benchmark for molecular toxicity repair with MLLMs — 660 toxic molecules, 11
 A structure-private, verifiable evaluation framework for molecular toxicity repair built on zero-knowledge proofs.
 
 [![Paper](https://img.shields.io/badge/arXiv-2508.12035-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2508.12035)
-[![Code](https://img.shields.io/badge/Code-Coming_Soon-lightgrey.svg?style=flat-square)](https://github.com/HydroSophy/ToxiEval-ZKP)
+[![Code](https://img.shields.io/badge/Code-GitHub-0B2A4A.svg?style=flat-square)](https://github.com/HydroSophy/ToxiEval-ZKP)
 
 ---
 
